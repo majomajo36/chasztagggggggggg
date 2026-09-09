@@ -1,0 +1,15 @@
+C:\Users\informatyk\Music\MarcinM5Tie\L2\bin\Debug\net10.0\L2.exe
+C:\Users\informatyk\Music\MarcinM5Tie\L2\bin\Debug\net10.0\L2.deps.json
+C:\Users\informatyk\Music\MarcinM5Tie\L2\bin\Debug\net10.0\L2.runtimeconfig.json
+C:\Users\informatyk\Music\MarcinM5Tie\L2\bin\Debug\net10.0\L2.dll
+C:\Users\informatyk\Music\MarcinM5Tie\L2\bin\Debug\net10.0\L2.pdb
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.AssemblyInfoInputs.cache
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.AssemblyInfo.cs
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.csproj.CoreCompileInputs.cache
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.dll
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\refint\L2.dll
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.pdb
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.genruntimeconfig.cache
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\ref\L2.dll
+C:\Users\informatyk\Music\MarcinM5Tie\L2\obj\Debug\net10.0\L2.csproj.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\bin\Debug\net10.0\niewiem.exe
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\bin\Debug\net10.0\niewiem.deps.json
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\bin\Debug\net10.0\niewiem.runtimeconfig.json
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\bin\Debug\net10.0\niewiem.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\bin\Debug\net10.0\niewiem.pdb
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.AssemblyInfoInputs.cache
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.AssemblyInfo.cs
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.csproj.CoreCompileInputs.cache
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\refint\niewiem.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.pdb
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.genruntimeconfig.cache
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\ref\niewiem.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\niewiem\niewiem\obj\Debug\net10.0\niewiem.csproj.Up2Date

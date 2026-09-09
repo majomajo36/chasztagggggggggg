@@ -1,0 +1,30 @@
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.exe
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.deps.json
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.runtimeconfig.json
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.pdb
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.AssemblyInfoInputs.cache
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.AssemblyInfo.cs
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.csproj.CoreCompileInputs.cache
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\refint\Lekcja 1.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.pdb
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.genruntimeconfig.cache
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\ref\Lekcja 1.dll
+C:\Users\informatyk\Music\Marcin M  5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.csproj.Up2Date
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.exe
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.deps.json
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.runtimeconfig.json
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.dll
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\bin\Debug\net10.0\Lekcja 1.pdb
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.AssemblyInfoInputs.cache
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.AssemblyInfo.cs
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.csproj.CoreCompileInputs.cache
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.dll
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\refint\Lekcja 1.dll
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.pdb
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.genruntimeconfig.cache
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\ref\Lekcja 1.dll
+C:\Users\informatyk\Music\MarcinM5Tie\Lekcja 1\obj\Debug\net10.0\Lekcja 1.csproj.Up2Date
