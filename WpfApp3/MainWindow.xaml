@@ -1,0 +1,101 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kolory"
+        Height="500"
+        Width="1000"
+        Background="#F7F7F7">
+
+    <Grid>
+
+        <!-- Górny komunikat -->
+        <Border Margin="35,20,35,0"
+                Height="100"
+                VerticalAlignment="Top"
+                Background="#F4DDDD"
+                BorderBrush="#E9CACA"
+                BorderThickness="1">
+
+            <TextBlock x:Name="txtKomunikat"
+                       Text="Wybierz kolor"
+                       Foreground="#F0192C"
+                       FontSize="40"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+        </Border>
+
+        <!-- Nazwa koloru -->
+        <TextBlock x:Name="txtKolor"
+                   Text="zielony"
+                   FontSize="58"
+                   FontWeight="Bold"
+                   Foreground="#222222"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Margin="0,140,0,0"/>
+
+        <!-- Przyciski -->
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Margin="0,240,0,0">
+
+            <Button x:Name="btn1"
+                    Width="150"
+                    Height="150"
+                    Margin="20"
+                    BorderBrush="#CCCCCC"
+                    BorderThickness="6"
+                    Click="Kolor_Click"/>
+
+            <Button x:Name="btn2"
+                    Width="150"
+                    Height="150"
+                    Margin="20"
+                    BorderBrush="#CCCCCC"
+                    BorderThickness="6"
+                    Click="Kolor_Click"/>
+
+            <Button x:Name="btn3"
+                    Width="150"
+                    Height="150"
+                    Margin="20"
+                    BorderBrush="#CCCCCC"
+                    BorderThickness="6"
+                    Click="Kolor_Click"/>
+
+        </StackPanel>
+
+        <!-- Wyniki -->
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Bottom"
+                    Margin="0,0,0,20">
+
+            <TextBlock Text="Poprawne: "
+                       FontSize="24"
+                       FontWeight="Bold"/>
+
+            <TextBlock x:Name="txtPoprawne"
+                       Text="0"
+                       FontSize="24"
+                       Foreground="Green"
+                       FontWeight="Bold"
+                       Margin="5,0,30,0"/>
+
+            <TextBlock Text="Błędne: "
+                       FontSize="24"
+                       FontWeight="Bold"/>
+
+            <TextBlock x:Name="txtBledne"
+                       Text="0"
+                       FontSize="24"
+                       Foreground="Red"
+                       FontWeight="Bold"
+                       Margin="5,0,0,0"/>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>
